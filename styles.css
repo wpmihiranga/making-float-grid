@@ -49,7 +49,7 @@ clear:both;
   max-width: 1200px; 
 }
 
-@media (max-width:480px){
+@media (max-width:600px){
 
 
   .column{
